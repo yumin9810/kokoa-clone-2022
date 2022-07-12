@@ -1,5 +1,6 @@
 .user-component{
     justify-content: space-between;
+    margin-bottom: 25px;
 }
 
 .user-component,
@@ -24,6 +25,10 @@
     margin-top: 8px;
     font-size: 17px;
     color: rgba(0, 0, 0, 0.5);
+}
+
+.user-component__subtitle i{
+    color: tomato;
 }
 
 .user-component__avatar--xl{
